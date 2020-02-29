@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Lato|Raleway&display=swap");
 
 html {
   font-size: 100%;
-  max-width: 100%;
+  max-width: 90%;
   background-color: #fcfcfc;
 }
 
@@ -30,7 +30,7 @@ p {
   justify-content: center;
 }
 
-#tittle {
+#title {
   text-align: center;
   font-size: 36px;
   font-family: "Lato";
